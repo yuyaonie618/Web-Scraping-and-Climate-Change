@@ -1,4 +1,3 @@
-# STATS220
 
 # The Effects of Heat Waves and Rising Temperatures on Health and Safety: Insights from Riyadh and California
 Author: Yifan Chen (yffch@ucdavis.edu), Yuyao Nie (yynie@ucdavis.edu) 
